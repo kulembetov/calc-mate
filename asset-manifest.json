@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calc-mate/static/css/main.2bdf78fb.css",
+    "main.js": "/calc-mate/static/js/main.af8e08c9.js",
+    "static/js/453.fbb254ce.chunk.js": "/calc-mate/static/js/453.fbb254ce.chunk.js",
+    "index.html": "/calc-mate/index.html",
+    "main.2bdf78fb.css.map": "/calc-mate/static/css/main.2bdf78fb.css.map",
+    "main.af8e08c9.js.map": "/calc-mate/static/js/main.af8e08c9.js.map",
+    "453.fbb254ce.chunk.js.map": "/calc-mate/static/js/453.fbb254ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bdf78fb.css",
+    "static/js/main.af8e08c9.js"
+  ]
+}
